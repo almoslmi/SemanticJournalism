@@ -17,37 +17,37 @@ A massive amount of news information is being shared online every day by individ
 
 Workshop topics, includes but not limited to:
 Knowledge Graph Generation, Enrichment, and Evaluation for journalism
-- Information extraction; open information extraction, named entity extraction; ontology construction
-- Entity resolution, relation extraction, information integration
-- Data transformation to Knowledge Graph
-- Data streams, online/on-the-fly adaptation of journalism knowledge
-- Knowledge Graph expansion and enrichment
-- Quality measurement of journalism Knowledge Graphs
-- Knowledge Graph embeddings
-- Tools for Knowledge Graph generation
-- Architectures for Knowledge Graph generation systems
-- Benchmark and Evaluation of KG.
+  - Information extraction; open information extraction, named entity extraction; ontology construction
+  - Entity resolution, relation extraction, information integration
+  - Data transformation to Knowledge Graph
+  - Data streams, online/on-the-fly adaptation of journalism knowledge
+  - Knowledge Graph expansion and enrichment
+  - Quality measurement of journalism Knowledge Graphs
+  - Knowledge Graph embeddings
+  - Tools for Knowledge Graph generation
+  - Architectures for Knowledge Graph generation systems
+  - Benchmark and Evaluation of KG.
 Ontologies & linked open data for journalism
-- Ontology creation, extraction, and evolution
-- Ontology mapping, merging, and alignment
-- Ontology design patterns for journalism
-- Linked-open-data for journalism for journalism
-- Quality, provenance, privacy and trustworthiness of Linked Data generation
+  - Ontology creation, extraction, and evolution
+  - Ontology mapping, merging, and alignment
+  - Ontology design patterns for journalism
+  - Linked-open-data for journalism for journalism
+  - Quality, provenance, privacy and trustworthiness of Linked Data generation
 Techniques and applications of Knowledge Graphs for journalism
-- Question-answering using KBs
-- Conversational journalism systems (e.g. chatbots, voice assistants)
-- Journalism recommender systems
-- Intelligent newsrooms
-- Knowledge discovery and data mining on journalism knowledge graphs
-- Reasoning strategies (e.g. context, temporal, spatial)
-- Using KG for fact-checking and fake news detection
-- Trend prediction based on Knowledge Graphs
-- Knowledge Graph generation and publishing of streaming data at run-time
+  - Question-answering using KBs
+  - Conversational journalism systems (e.g. chatbots, voice assistants)
+  - Journalism recommender systems
+  - Intelligent newsrooms
+  - Knowledge discovery and data mining on journalism knowledge graphs
+  - Reasoning strategies (e.g. context, temporal, spatial)
+  - Using KG for fact-checking and fake news detection
+  - Trend prediction based on Knowledge Graphs
+  - Knowledge Graph generation and publishing of streaming data at run-time
 Mining journalism Knowledge graphs
-- Dynamic discovery and retrieval of data and relationships
-- KGs visualisation
-- KGs query systems and methods
-- Knowledge inference
+  - Dynamic discovery and retrieval of data and relationships
+  - KGs visualisation
+  - KGs query systems and methods
+  - Knowledge inference
 Negative results and in-use/applied descriptions
 
 
