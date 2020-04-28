@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>{{page.title}} | SEMANTICJOURNALISM 2020</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <base href="./">
+</head>
+
+<body>
+  <section class="cover">
+    <div class="inside">
+      <div class="description">
+        <h1>Semantic and knowledge graph advances for journalism <br /><small>#SEMANTICJOURNALISM</small></h1>
+        <h2>Workshop at <a href="https://cikm2020.org/" rel="external" target="_blank">CIKM 2020</a></h2>
+      </div>
+    </div>
+    <nav class="mainNav">
+      <ul>
+        {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
+        <li>
+          <a href="/semiform2020{{ p.url }}" {% if p.url==page.url %}class="active" {% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endif %} {% endfor %}
+      </ul>
+    </nav>
+
+  </section>
+
+  <div class="mainContent">
+    {{ content }}
+  </div>
+  <footer id="appFooter">
+    <div class="footerCont">
+      <div class="projLogoCont">
+        <a href="https://cikm2020.org/" rel="external" target="_blank">
+          <img alt="CIKM2020" src="img/cikm2020.jpg">
+        </a>
+        <a href="http://www.uib.no/" rel="external" target="_blank">
+          <img alt="University of Bergen" src="img/uib.png">
+        </a>
+        <a href="http://www.eurecom.fr/en" rel="external" target="_blank">
+          <img alt="EURECOM" src="img/eurecom.gif">
+        <a href="https://www.manchester.ac.uk/" rel="external" target="_blank">
+          <img alt="The University of Manchester" src="img/UM.png">
+        </a>
+        <a href="https://www.cwi.nl/" rel="external" target="_blank">
+          <img alt="CENTRUM WISKUNDE & INFORMATICA" src="img/cwi.png">
+        </a>
+        </a>
+        <a href="https://www.ubi.pt/en/" rel="external" target="_blank">
+          <img alt="University of Beira Interior" src="img/ubi.jpg">
+        </a>
+      </div>
+
+    </div>
+  </footer>
+</body>
+
+</html>
