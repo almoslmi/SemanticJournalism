@@ -8,10 +8,15 @@ navigation_weight: 2
 
 # Call for Papers
 
+  Information extraction; open information extraction, named entity extraction; ontology construction
+  Entity resolution, relation extraction, information integration
 
 Call for Contributions to the Semantic and knowledge graph advances for journalism Workshop at CIKM 2020
+
 Submit by: July 24, 2020
+
 Workshop: October 19, 2020
+
 Details: https://almoslmi.github.io/SemanticJournalism/
 
 
