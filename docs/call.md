@@ -8,12 +8,12 @@ navigation_weight: 2
 
 # Call for Papers
 
-==================================================
+
 Call for Contributions to the Semantic and knowledge graph advances for journalism Workshop at CIKM 2020
 Submit by: July 24, 2020
 Workshop: October 19, 2020
 Details: https://almoslmi.github.io/SemanticJournalism/
-==================================================
+
 
 # Aim & scope
 
