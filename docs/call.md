@@ -58,7 +58,7 @@ Workshop topics, includes but not limited to:
 
 # Submission guidelines 
 
-We invite three types of submissions, including original research paper Full research papers (6-8 pages), Position/vision papers (2-4 pages), Lightning talks (1 page abstract). Submissions must be in PDF format, written in English, and formatted according to the cikm 2020 conference submissions formatting guidelines. All papers will be peer reviewed and assessed based on their novelty, technical quality, potential impact, clarity, and reproducibility. All the papers are required to be submitted via EasyChair system at EasyChair (https://www.easychair.org/conferences/?conf=skg4j2020).
+We invite three types of submissions, including original research paper Full research papers (6-8 pages), Position/vision papers (2-4 pages), Lightning talks (1 page abstract). Submissions must be in PDF format, written in English, and formatted according to the cikm 2020 conference submissions formatting guidelines. All papers will be peer reviewed and assessed based on their novelty, technical quality, potential impact, clarity, and reproducibility. All the papers are required to be submitted via EasyChair system at [EasyChair](https://www.easychair.org/conferences/?conf=skg4j2020).
 In light of COVID-19, we will follow cikm policy for attendance and presentation (face-to-face, virtual or hybrid).
 
 # Invited speakers
