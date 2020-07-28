@@ -10,7 +10,7 @@ navigation_weight: 2
 
 Call for Contributions to the Semantic and knowledge graph advances for journalism Workshop at CIKM 2020
 
-Submit by: July 24, 2020
+Submit by: July 24, 2020 (Extended deadline: August 7, 2020)
 
 Workshop: October 19, 2020
 
@@ -68,8 +68,8 @@ TBA
 # Important dates
 
 - Paper deadline: July 24, 2020 (Extended deadline: August 7, 2020)
-- Notification:August 21, 2020
-- Camera-ready due: August 7, 2020
+- Notification:August 25, 2020
+- Camera-ready due: August 30, 2020
 - Workshop: October 19, 2020
 
 # Contact
