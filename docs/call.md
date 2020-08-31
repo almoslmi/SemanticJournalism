@@ -68,8 +68,8 @@ TBA
 # Important dates
 
 - Paper deadline: July 24, 2020 (Extended deadline: August 7, 2020)
-- Notification:August 31, 2020 (Extended)
-- Camera-ready due: September 6, 2020 (Extended)
+- Notification:September 14, 2020 (Extended)
+- Camera-ready due: September 21, 2020 (Extended)
 - Workshop: October 19, 2020
 
 # Contact
