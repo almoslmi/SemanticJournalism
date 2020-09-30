@@ -8,7 +8,7 @@ navigation_weight: 2
 
 # Program
 
-The workshop will take place on the 19th of October, 2020 the afternoon session (3PM to 8PM GMT+1).
+The workshop will take place on the 19th of October, 2020 the afternoon session (16:00 to 20:00 Central European Time (GMT+1)).
 
 **16:00-16:15**: Welcome and Opening from the chairs
 
