@@ -8,6 +8,8 @@ navigation_weight: 2
 
 # Program
 
+The workshop will take place on the 19th of October, 2020 the afternoon session (3PM to 8PM GMT+1).
+
 **16:00-16:15**: Welcome and Opening from the chairs
 
 **16:15-16:45**: Marc Gallofré Ocaña and Andreas L Opdahl. Challenges and Opportunities for Journalistic Knowledge Platforms
