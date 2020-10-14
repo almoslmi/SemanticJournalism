@@ -10,14 +10,15 @@ navigation_weight: 2
 
 <section markdown="1">
 
-![Tareq Al-Moslmi](https://www.uib.no/sites/w3.uib.no/files/styles/user_thumbnail/public/pictures/picture-394359-1583936463.jpg?itok=BHBPlAK_){: .profile-pic}
-### Tareq Al-Moslmi
+![Andreas Lothe Opdahl](https://www.uib.no/sites/w3.uib.no/files/styles/user_thumbnail/public/pictures/picture-9918-1601590287.png?itok=Z2IusyGI){: .profile-pic}
+### Andreas Lothe Opdahl
 #### University of Bergen, Norway
-[mail](mailto:tareq.al-moslmi@uib.no) - [website](https://www.uib.no/en/persons/Tareq.Al-Moslmi)
+[website](https://www.uib.no/en/persons/Andreas.Lothe.Opdahl)
 
 <p class="textblock" markdown="1">
 
-A Postdoctoral fellow at the University of Bergen, Norway. In 2018, He obtained his Ph.D. from the Universiti Kebangsaan Malaysia (UKM). He was awarded the university research award 5 times as well as outstanding publication award during his PhD. His research interest falls under natural-language processing, semantic and knowledge graphs, text and Web mining, and sentiment analysis. He is a member of the I2S group at UiB and works for the NewsAngler project. He has joined many conferences as program committee member and track chair (RCIS2020, ICACIn’20,ICOICE 2019).
+Dr. Andreas L. Opdahl is Professor of Information Systems Development at the University of Bergen, Norway. He received his Ph.D. from the Norwegian University of Science and Technology. His research interests include semantic modelling, ontologies and knowledge graphs, enterprise and IS modelling, as well as safety and security requirements. Opdahl is the author, co-author or co-editor of more than a hundred peer-reviewed research papers that have been cited several thousand times. He is a member of IFIP WG5.8 on Enterprise Interoperability and WG8.1 on Design and Evaluation of Information Systems. He serves regularly as a reviewer for premier international journals and on the program committees and as an organizer of renowned international conferences and workshops.
+
 </p>
 
 </section>
