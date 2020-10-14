@@ -24,10 +24,7 @@ Dr. Andreas L. Opdahl is Professor of Information Systems Development at the Uni
 <p class="textblock" markdown="1">
 ### Title: Semantic knowledge graphs for the news
 #### Synopsis: 
-ICT platforms for news production and distribution need to leverage the ever-increasing amounts of data available on the net.
-Knowledge graphs (KG) are well-aligned with the information needs of news producers and distributors. 
-The talk will review the research literature on using knowledge graphs to support all aspects of production and distribution of news. 
-The purpose is to present an overview of the field in order to identify research trends and suggest opportunities and needs for further research and development.
+ICT platforms for news production and distribution need to leverage the ever-increasing amounts of data available on the net. Knowledge graphs (KG) are well-aligned with the information needs of news producers and distributors. The talk will review the research literature on using knowledge graphs to support all aspects of production and distribution of news. The purpose is to present an overview of the field in order to identify research trends and suggest opportunities and needs for further research and development.
 
 </p>
 
