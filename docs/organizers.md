@@ -84,7 +84,7 @@ An Assistant Professor at the University of Beira Interior (UBI). He obtained hi
 <section markdown="1">
 
 
-# Program Committee (to be detailed)
+
 
 <!--
 - Ahmet Aker (University of Sheffield, UK and University of Duisburg-Essen, Germany)
